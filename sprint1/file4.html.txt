@@ -1,0 +1,63 @@
+<html>
+  <head><link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <div id=id6>
+    <h2 id=id7>Smart Speakers :</h2>
+    <div id=id8>
+     <div id=id9>A smart speaker is a type of speaker and voice command device with an integrated virtual assistant that offers interactive actions and<br/>
+       hands-free activation with the help of one "hot word" (or several "hot words"). Some smart speakers can also act as a smart device that utilizes<br/>
+        Wi-Fi, Bluetooth and other protocol standards to extend usage beyond audio playback, such as to control home automation devices. This can include, <br/>
+        but is not limited to, features such as compatibility across a number of services and platforms, peer-to-peer connection through mesh networking, <br/>
+        virtual assistants, and others. Each can have its own designated interface and features in-house, usually launched or controlled via application<br/>
+         or home automation software.[1] Some smart speakers also include a screen to show the user a visual response.
+     </div>
+     <div id=id10><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSc6v59Jldha-m0Ao1xUaZiUdIyBoZ1zxmS2pvjcrbJy_dqDyXi&usqp=CAU"id=id11></div>
+    </div>
+    <div>
+        <h2 id=id7>Surround Speakers :</h2>
+        <div id=id8>
+         <div id=id9>Surround sound is a technique for enriching the fidelity and depth of sound reproduction by using multiple audio channels from speakers <br/>
+          that surround the listener (surround channels). Its first application was in movie theaters. Prior to surround sound, theater sound systems commonly<br/>
+           had three "screen channels" of sound, from loudspeakers located in front of the audience at the left, center, and right. Surround sound adds one or <br/>
+           more channels from loudspeakers behind the listener, able to create the sensation of sound coming from any horizontal direction 360° around the listener.<br/>
+            Surround sound formats vary in reproduction and recording methods along with the number and positioning of additional channels. <br/>
+             sound specification, the ITU's 5.1 standard, calls for 6 speakers: Center (C) in front of the listener, Left (L) and Right (R) at angles of 60° on either<br/>
+              side of the center, and Left Surround (LS) and Right Surround (RS) at angles of 100–120°, plus a subwoofer whose position is not critical.
+         </div>
+         <div id=id10><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6N8C-N635UQBnVkzuG4zrfdatv7PrSZqn_KR9pFkQFinHi9dR&usqp=CAU"id=id11></div>
+        </div>
+  
+      </div>
+      <div>
+        <h2 id=id7>Surround Speakers :</h2>
+        <div id=id8>
+         <div id=id9>Surround sound is a technique for enriching the fidelity and depth of sound reproduction by using multiple audio channels from speakers <br/>
+          that surround the listener (surround channels). Its first application was in movie theaters. Prior to surround sound, theater sound systems commonly<br/>
+           had three "screen channels" of sound, from loudspeakers located in front of the audience at the left, center, and right. Surround sound adds one or <br/>
+           more channels from loudspeakers behind the listener, able to create the sensation of sound coming from any horizontal direction 360° around the listener.<br/>
+            Surround sound formats vary in reproduction and recording methods along with the number and positioning of additional channels. <br/>
+             sound specification, the ITU's 5.1 standard, calls for 6 speakers: Center (C) in front of the listener, Left (L) and Right (R) at angles of 60° on either<br/>
+              side of the center, and Left Surround (LS) and Right Surround (RS) at angles of 100–120°, plus a subwoofer whose position is not critical.
+         </div>
+         <div id=id10><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR6N8C-N635UQBnVkzuG4zrfdatv7PrSZqn_KR9pFkQFinHi9dR&usqp=CAU"id=id11></div>
+        </div>
+  
+      </div>
+      <div>
+        <h2 id=id7>Sound Bars :</h2>
+        <div id=id8>
+         <div id=id9>
+          
+          A soundbar, sound bar or media bar is a type of loudspeaker that projects audio from a wide enclosure. It is much wider than it is tall, partly <br/>
+          for acoustic reasons, and partly so it can be mounted above or below a display device, e.g., above a computer monitor or under a home theater or <br/>
+          television screen. Basically, in a soundbar multiple speakers are placed in a single cabinet, which helps to create surround sound and/or stereo <br/>
+          effect. A separate subwoofer is typically included with, or may be used to supplement,[1][2] a soundbar.
+         </div>
+         <div id=id10><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Philips_Soundbar_with_Ambisound_HTS9140_front.jpg/360px-Philips_Soundbar_with_Ambisound_HTS9140_front.jpg"id=id11></div>
+        </div>
+  
+      </div>
+     
+
+  </div>
+</html>  

@@ -1,0 +1,59 @@
+<html>
+  <head><link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <div id=id6>
+    <h2 id=id7>In-Wall Speakers :</h2>
+    <div id=id8>
+     <div id=id9>Whether you’re looking for inexpensive speakers for a multi-room audio system, or high-performance home theater speakers that don’t<br/>
+       take up any real estate in your room, Klipsch in-wall speakers provide the performance you require.
+
+      In-wall speakers are easy to install and virtually invisible. Paintable speaker grilles mean that you’ll barely notice that you even have <br/>
+      speakers in your room.
+      
+      Klipsch in-wall speakers also use the same horn-loaded technology as the traditional Klipsch speakers, and many are specifically designed to <br/>
+      perfectly match an existing loudspeaker product, so feel free to mix and match in-wall speakers with you favorite Klipsch loudspeakers for the<br/>
+       ultimate sound system.
+     </div>
+     <div id=id10><img src="https://f072605def1c9a5ef179-a0bc3fbf1884fc0965506ae2b946e1cd.ssl.cf2.rackcdn.com/product-images/_338xAUTO_fit_center-center_80_none/PRO-180RPW.jpg"id=id11></div>
+    </div>
+    <div>
+        <h2 id=id7>On-Wall Speakers :</h2>
+        <div id=id8>
+         <div id=id9>super shallow depth of 1.5" to matches today's ultra-thin TVs. Beyond its utility and clean, modern styling, what really sets it apart<br/>
+           is the uncompromising sound quality and technological prowess—the kind that's equivalent to full-size speakers.
+  
+         </div>
+         <div id=id10><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTG1ne0PBBhgMI0ofH6n0IkUO6SP-3Ieht5lhMtwkcS8NF3ewb-&usqp=CAU"id=id11></div>
+        </div>
+  
+      </div>
+      <div>
+        <h2 id=id7>Satellite Speakers :</h2>
+        <div id=id8>
+         <div id=id9>Wireless speakers are loudspeakers which receive audio signals using radio frequency (RF) waves rather than over audio cables. <br/>
+          The two most popular RF frequencies that support audio transmission to wireless loudspeakers include a variation of WiFi IEEE 802.11, while<br/>
+           others depend on Bluetooth to transmit audio data to the receiving speaker.[1]
+         </div>
+         <div id=id10><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRuJJGfxR_z6OofuLO1ZfSjYzhqWNSHzBUmHKKSpEcOfH21d5mK&usqp=CAU"id=id11></div>
+        </div>
+  
+      </div>
+      <div>
+        <h2 id=id7>Blueetooth Speakers :</h2>
+        <div id=id8>
+         <div id=id9>Wireless speakers are loudspeakers which receive audio signals using radio frequency (RF) waves rather than over audio cables. <br/>
+          The two most popular RF frequencies that support audio transmission to wireless loudspeakers include a variation of WiFi IEEE 802.11, while<br/>
+           others depend on Bluetooth to transmit audio data to the receiving speaker.[1]
+         </div>
+         <div id=id10><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/JBL_Flip_3_bluetooth_speaker_%28DSCF2653%29.jpg/220px-JBL_Flip_3_bluetooth_speaker_%28DSCF2653%29.jpg"id=id11></div>
+        </div>
+        <a href="file4.html" target="_blank">Next</a>
+  
+      </div>
+      <div id=id99>
+        <a href="file4.html" target="_blank">Next</a>
+     </div>
+
+  </div>
+  
+</html>  

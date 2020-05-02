@@ -1,0 +1,80 @@
+ 
+<html>
+  <head><link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+<div id=id0>
+  <div id=id1><h1 class=class2>Speakers</h1>
+    <div id=id2 class=class1><h2>Speakers:</h2>
+      <p>
+        A speaker is an electroacoustic transducer;a device which converts an electrical audio signal into a corresponding sound.
+         The most widely used type of speaker in the 2010s is the dynamic speaker, invented in 1924 by Edward W. Kellogg and Chester W. Rice.
+         The dynamic speaker operates on the same basic principle as a dynamic microphone, but in reverse, to produce sound from an electrical signal. 
+         When an alternating current electrical audio signal is applied to its voice coil, a coil of wire suspended in a circular gap between 
+         the poles of a permanent magnet, the coil is forced to move rapidly back and forth due to Faraday's law of induction, which causes a diaphragm
+          (usually conically shaped) attached to the coil to move back and forth, pushing on the air to create sound waves. Besides this most common method,
+           there are several alternative technologies that can be used to convert an electrical signal into sound. The sound source (e.g., a sound recording or a microphone) 
+         must be amplified or strengthened with an audio power amplifier before the signal is sent to the speaker.
+        </p>
+        <h2>Different types of speakers:</h2>
+         <div id=id5>
+           <ul>
+            <li>Subwoofers</li>
+            <li>Studio Monitors</li>
+            <li>Loudspeakers</li>
+            <li>Computer Speakers</li>
+            <li>Floor standing speakers</li>
+            <li>Book Shelf Speakers</li>
+            <li>Center Channel Speakers</li>
+  
+           </ul>
+         </div>
+         <div id=id5 class=class4>
+          <ul>
+           <li>In-wall Speakers</li>
+           <li>On-Wall Speakers</li>
+           <li>Satellite Speakers</li>
+           <li>Bluetooth Speakers</li>
+           <li>Smart Speakers</li>
+           <li>Surround Speakers</li>
+           <li>Sound Bars</li>
+ 
+          </ul>
+        </div>
+        
+
+          
+          
+         
+      
+    </div>
+    <div id=id3 class=class1><img src="https://www.pngitem.com/pimgs/m/47-474009_loud-speakers-clip-arts-computer-speakers-clipart-hd.png" id=id4>
+      <p>fig: Speakers</p>
+      
+    </div>
+    
+      
+    
+  </div>
+  
+  
+    
+  
+
+</div>
+<div id=id6>
+  Speakers are typically housed in a speaker enclosure or speaker cabinet which is often a rectangular square box made of several forms of wood, or sometimes plastic. The enclosure's materials and design play an important role in the quality of the sound. The enclosure 
+  generally must be as stiff and non-resonant as practically possible. Where high fidelity reproduction of sound is required, multiple loudspeaker transducers are often mounted in the same enclosure, each reproducing a part of the audible frequency range (picture at right).
+  In this case the individual speakers are referred to as "drivers" and the entire unit is called a loudspeaker. Drivers made for reproducing high audio frequencies are called tweeters, those for middle frequencies are called mid-range drivers, and those for low frequencies
+  are called woofers. Extremely low frequencies (16Hz-~100Hz) may be reproduced by detached subwoofers.Smaller loudspeakers are found in devices such as radios, televisions, portable audio players, computers, and electronic musical instruments. Larger loudspeaker systems are
+  used for music, sound reinforcement in theatres and concert halls, and in public address systems.
+
+    
+      
+    
+    
+</div>
+<div id=id99>
+<a href="file1.html" target="_blank">Next</a>
+</div>
+</div>
+</html>
